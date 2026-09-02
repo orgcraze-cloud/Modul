@@ -1,0 +1,6 @@
+{
+  "name": "Auto Document Generator - Perangkat Pembelajaran Kimia Fase F XII",
+  "description": "Sistem otomatis pembuat perangkat pembelajaran Kimia inovatif Fase F Kelas XII Semester Ganjil berbasis TPACK, Deep Learning, STEM, dan Project-Based Learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
